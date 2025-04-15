@@ -1,6 +1,7 @@
 package com.example.pessoa.service;
 
 import com.example.pessoa.dto.PessoaDTO;
+import com.example.pessoa.dto.TrabalhoDTO;
 import com.example.pessoa.model.Pessoa;
 import com.example.pessoa.repository.PessoaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
